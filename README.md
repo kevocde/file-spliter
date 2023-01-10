@@ -28,7 +28,7 @@ File Spliter is an App designed by me, for me and the whole community. File Spli
 File Spliter will use the free space in other platforms to save your files, being able to connect multiple Cloud Services in just one place.
 
 ### Built with
-[![Html][Html.com]][Html-url] · [![Css][Css.com]][Css-url] · [![JavaScript][JavaScript.com]][JavaScript-url] · [![PHP][Php.com]][Php-url] [![Symfony][Symfony.com]][symfony-url]
+[![Html][Html.com]][Html-url] · [![Css][Css.com]][Css-url] · [![JavaScript][JavaScript.com]][JavaScript-url] · [![PHP][Php.com]][Php-url] · [![Symfony][Symfony.com]][symfony-url]
 
 ### Getting Started
 #### Prerequisites
