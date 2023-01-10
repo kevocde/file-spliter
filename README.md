@@ -6,6 +6,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
+  <a href="https://github.com/kevocde/game-life">
+    <img src="public/favicon.png" alt="Logo" width="100" height="100">
+  </a>
   <h2 align="center">File Spliter</h2>
   <p align="center">Welcome to File Spliter app, the only app that allow you to manage all your files in the cloud without space limits or additional payments.</p>
   <a href="https://github.com/kevocde/file-spliter"><strong>Explore the docs»</strong></a>
